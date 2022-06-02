@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurimn)](https://github.com/yurimn/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={leeyou6757})](https://solved.ac/{leeyou6757})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={leeyou6757})](https://solved.ac/{leeyou6757})
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
