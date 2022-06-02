@@ -1,11 +1,12 @@
-## 😊 About Me & Skills
+## 😊 About Me
 ### Hi there 👋 I'm Lee Yurim.
 
 <a href="https://yurims-development-journal.ghost.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:leeyou6757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leeyou6757@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/yurimm_i/" target="_blank"><img src="https://img.shields.io/badge/yurimm_i-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.kaggle.com/yurimn" target="_blank"><img src="https://img.shields.io/badge/yurimn-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
-</br>
+</br></br>
+## 🛠️ Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
