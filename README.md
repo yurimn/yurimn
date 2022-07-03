@@ -14,8 +14,9 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&color=00599C)
 </br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leeyou6757)](https://solved.ac/leeyou6757)
+[![BOJ
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyou6757)](https://icpc.me/leeyou6757)
+[![kidw0124 profile](http://mazandi.herokuapp.com/api?handle=leeyou6757)](https://solved.ac/leeyou6757)
 
 </br>
 
