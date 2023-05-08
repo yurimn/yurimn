@@ -9,6 +9,7 @@
 ## 🛠️ Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=TensorFlow&color=FF6F00)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC)
