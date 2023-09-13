@@ -20,9 +20,14 @@
 </br></br>
 
 ## ✨ PS ✨
+#### ● Codeforce 
+[![CodeForces Profile](https://cf.leed.at?id=yurimmmmm)](https://codeforces.com/profile/yurimmmmm)
+</br></br>
+#### ● BOJ
 [![BOJ프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyou6757)](https://icpc.me/leeyou6757)
 [![yurimn profile](http://mazandi.herokuapp.com/api?handle=leeyou6757)](https://solved.ac/leeyou6757)
 </br></br>
+
 
 ## ❤️ GitHub Status ❤️
 
