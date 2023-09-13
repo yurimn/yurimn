@@ -3,8 +3,8 @@
 <a href="mailto:leeyou6757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leeyou6757@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/yurimm_i/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.kaggle.com/yurimn" target="_blank"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
-#### ● Korea Univ. CYDF
-#### ● SASA 4th
+#### ●  Korea Univ. CYDF
+#### ●  SASA 4th
 <br/>
 
 ## 🛠️ Skills 🛠️
@@ -20,10 +20,10 @@
 </br></br>
 
 ## ✨ PS ✨
-#### ● Codeforce 
+#### ●  Codeforce 
 [![CodeForces Profile](https://cf.leed.at?id=yurimmmmm)](https://codeforces.com/profile/yurimmmmm)
 </br></br>
-#### ● BOJ
+#### ●  BOJ
 [![BOJ프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyou6757)](https://icpc.me/leeyou6757)
 [![yurimn profile](http://mazandi.herokuapp.com/api?handle=leeyou6757)](https://solved.ac/leeyou6757)
 </br></br>
