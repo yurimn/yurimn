@@ -1,23 +1,26 @@
+# Hi there 👋 I'm Lee Yurim.
+  - Korea Univ. CYDF
+  - SASA 4th
 ## 😊 About Me 😊
-### Hi there 👋 I'm Lee Yurim.
-<a href="mailto:leeyou6757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leeyou6757@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/yurimm_i/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.kaggle.com/yurimn" target="_blank"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
-#### ●  Korea Univ. CYDF
-#### ●  SASA 4th
-<br/>
+  <a href="mailto:leeyou6757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leeyou6757@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yurimm_i/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/yurimn" target="_blank"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
+  </br></br>
 
 ## 🛠️ Skills 🛠️
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
-</br>
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&color=00599C)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-dart-informational?style=flat&logo=dart&color=0175C2)
-![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=TensorFlow&color=FF6F00)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC)
-</br></br>
+  ![](https://img.shields.io/badge/Dev-Android-informational?style=flat&logo=android&color=3DDC84)
+  ![](https://img.shields.io/badge/Dev-IOS-informational?style=flat&logo=ios&color=000000)
+  </br>
+  ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
+  ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+  </br>
+  ![](https://img.shields.io/badge/Code-dart-informational?style=flat&logo=dart&color=0175C2)
+  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+  ![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=TensorFlow&color=FF6F00)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
+  ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC)
+  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&color=00599C)
+  </br></br>
 
 ## ✨ PS ✨
 #### ●  Codeforce 
