@@ -8,8 +8,8 @@
   </br></br>
 
 ## 🛠️ Skills 🛠️
-  ![](https://img.shields.io/badge/Dev-Android-informational?style=flat&logo=android&color=3DDC84)
-  ![](https://img.shields.io/badge/Dev-IOS-informational?style=flat&logo=ios&color=000000)
+  ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&color=3DDC84)
+  ![](https://img.shields.io/badge/OS-IOS-informational?style=flat&logo=ios&color=000000)
   </br>
   ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
   ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
