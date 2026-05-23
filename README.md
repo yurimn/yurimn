@@ -55,9 +55,10 @@ Building products, solving problems, shipping games.
 ---
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yurimn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=00000000)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimn&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yurimn&theme=radical&hide_border=true&background=00000000)](https://github.com/yurimn)
+![](https://github-readme-stats.vercel.app/api?username=yurimn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimn&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yurimn&theme=radical&hide_border=true)](https://github.com/yurimn)
 
 </div>
