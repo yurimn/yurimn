@@ -1,41 +1,46 @@
-# Hi there 👋 I'm Lee Yurim.
-  - Korea Univ. CYDF
-  - SASA 4th
-## 😊 About Me 😊
-  <a href="mailto:leeyou6757@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leeyou6757@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yurimm_i/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/yurimn" target="_blank"><img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
-  </br></br>
+## Hey, I'm Yurim.
 
-## 🛠️ Skills 🛠️
-  ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&color=3DDC84)
-  ![](https://img.shields.io/badge/OS-IOS-informational?style=flat&logo=ios&color=000000)
-  </br>
-  ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
-  ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
-  </br>
-  ![](https://img.shields.io/badge/Code-dart-informational?style=flat&logo=dart&color=0175C2)
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-  ![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=TensorFlow&color=FF6F00)
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
-  ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC)
-  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&color=00599C)
-  </br></br>
+CS @ Korea University (Cyber Defense) · SASA 4th
 
-## ✨ PS ✨
-#### Codeforce 
-[![CodeForces Profile](https://cf.leed.at?id=yurimmmmm)](https://codeforces.com/profile/yurimmmmm)
-</br></br>
-#### BOJ
-[![BOJ프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyou6757)](https://icpc.me/leeyou6757)
-[![yurimn profile](http://mazandi.herokuapp.com/api?handle=leeyou6757)](https://solved.ac/leeyou6757)
-</br></br>
+Building products, solving problems, shipping games.
 
+<br/>
 
-## ❤️ GitHub Status ❤️
+### Tech Stack
 
-| <a href="https://github.com/yurimn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yurimn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yurim's github stats" /></a> | <a href="https://github.com/yurimn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimn&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+**Backend** &nbsp; ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
+**Frontend** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**Mobile & Game** &nbsp; ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+
+**Infra** &nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+<br/>
+
+### Competitive Programming
+
+<!-- **ICPC 2024 Seoul Regional** — National Finals -->
+
+<p>
+  <a href="https://codeforces.com/profile/yurimmmmm"><img src="https://cf.leed.at?id=yurimmmmm" height="150" alt="Codeforces" /></a>
+  <a href="https://solved.ac/leeyou6757"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyou6757" height="150" alt="BOJ" /></a>
+</p>
+
+<br/>
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yurimn&show_icons=true&include_all_commits=true&theme=default&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimn&layout=compact&theme=default&hide_border=true" height="150" alt="langs" />
+</p>
+
+<br/>
+
+### Contact
+
+[![Gmail](https://img.shields.io/badge/leeyou6757@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leeyou6757@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/yurim-0077B5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/yurim-lee-82b99a240)
+[![Instagram](https://img.shields.io/badge/@yurimm__i-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yurimm_i/)
 
