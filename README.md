@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hey%2C+I'm+Yurim.)](https://github.com/yurimn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hey%2C+I'm+Yurim.)](https://github.com/yurimn)
 
 **CS @ Korea University (Cyber Defense) · SASA 4th**
 
@@ -55,10 +55,9 @@ Building products, solving problems, shipping games.
 ---
 
 ### GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=yurimn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimn&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
-![](https://github-readme-stats.vercel.app/api?username=yurimn&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurimn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yurimn&theme=tokyonight&hide_border=true&background=00000000)](https://github.com/yurimn)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yurimn&theme=radical&hide_border=true&background=00000000)](https://github.com/yurimn)
 
 </div>
