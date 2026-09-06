@@ -44,15 +44,7 @@ Building products, solving problems, shipping games.
 
 ---
 
-### Competitive Programming
 
-<!-- **ICPC 2024 Seoul Regional** — National Finals -->
-
-<a href="https://codeforces.com/profile/yurimmmmm"><img src="https://cf.leed.at?id=yurimmmmm" height="150" alt="Codeforces" /></a>
-<br/><br/>
-<a href="https://solved.ac/leeyou6757"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leeyou6757" height="150" alt="BOJ" /></a>
-
----
 
 ### GitHub Stats
 
